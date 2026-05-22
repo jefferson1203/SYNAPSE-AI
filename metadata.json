@@ -1,0 +1,6 @@
+{
+  "name": "Brainstorming IA",
+  "description": "Une application de brainstorming augmenté par l'IA de Gemini, 100% responsive, synchronisée en temps réel et fonctionnant entièrement hors-ligne (offline-first).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
